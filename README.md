@@ -12,3 +12,20 @@ LangChain for conversational AI and document retrieval.
 Chroma for document embedding storage.
 OpenAI for language models and embeddings.
 
+# Prerequisites
+Make sure you have Python 3.8 or higher installed.
+
+# Installation
+1. Clone the repository
+2. install requirements.txt - pip install -r requirements.txt
+3. Set up environment variables: You need to provide your OpenAI API key in a .env file.
+
+# Usage
+1. Run the Streamlit app - streamlit run app.py
+2. Upload your PDFs: Open your browser and go to the local Streamlit server. You will be prompted to upload your PDF files.
+
+# Ask questions: Once the PDFs are uploaded, use the input box to ask questions about the content of the documents. The application will retrieve relevant content and provide concise answers.
+
+
+
+
