@@ -6,3 +6,4 @@ chroma
 langchain_community
 pypdf
 langchain_chroma
+sqlite3
